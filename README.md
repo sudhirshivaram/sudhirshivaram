@@ -2,7 +2,7 @@
 
 <img align="left" src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%; margin-right: 20px;">
 
-### ML/AI Engineer | Full-Stack Java Engineer | Cloud & MLOps Practitioner
+### ML Engineer | Bridging Software Engineering & AI | Production ML Systems | Python • MLOps • Cloud Practitioner
 
 📍 Based in the US | 🔗 [LinkedIn](https://linkedin.com/in/sudhirshivaram) | 📧 shivaram.sudhir@gmail.com
 
@@ -10,9 +10,13 @@
 
 ## 👨‍💼 About Me
 
-ML/AI Engineer with **12+ years in full-stack Java engineering** and proven expertise in **production-grade RAG systems, ML pipelines, and cloud-deployed AI solutions**.
+Machine Learning Engineer with 12+ years of experience building scalable, production-grade systems. I specialize in designing and deploying AI solutions with a systems-first approach—focusing not just on models, but on how they're architected, deployed, and maintained in production.
 
-Currently working as a **Senior Software Engineer at Computershare**, where I engineer scalable backend services for data-intensive reporting workflows and contribute to cloud migration initiatives on Azure.
+My background in enterprise backend engineering gives me a unique perspective on ML infrastructure. I build end-to-end solutions including RAG pipelines with vector databases, time-series forecasting systems, and containerized deployments on AWS/Azure.
+
+Recent work includes an AI research assistant using hybrid search and LLMs, and an energy forecasting system achieving 99%+ accuracy with real-time inference and SHAP interpretability—both production-ready and deployed.
+
+Currently seeking ML Engineering roles where I can build AI systems that scale from prototype to production impact.
 
 ### 🎯 Key Achievements
 
