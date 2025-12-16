@@ -18,13 +18,12 @@ Recent work includes an AI research assistant using hybrid search and LLMs, and 
 
 Currently seeking ML Engineering roles where I can build AI systems that scale from prototype to production impact.
 
-### 🎯 Key Achievements
-
-→ Built and deployed **production RAG systems** with 95%+ retrieval accuracy on HuggingFace Spaces
-→ Engineered **hybrid search pipelines** combining BM25 + vector embeddings with reranking
-→ Achieved **96% R² accuracy** in ML forecasting models with comprehensive SHAP analysis
-→ Reduced **monthly LLM costs to ~$12** through 4-tier automatic fallback architecture
-→ Led **L3 production support** for critical data services with high SLA compliance
+### 🎯 Key Achievements 
+- Built and deployed **production RAG systems** with 95%+ retrieval accuracy on HuggingFace Spaces  
+- Engineered **hybrid search pipelines** combining BM25 + vector embeddings with reranking  
+- Achieved **96% R² accuracy** in ML forecasting models with comprehensive SHAP analysis  
+- Reduced **monthly LLM costs to ~$12** through 4-tier automatic fallback architecture  
+- Led **L3 production support** for critical data services with high SLA compliance  
 
 ## 🛠️ Technical Skills
 
