@@ -6,7 +6,7 @@
 
 📍 Based in the US | 🔗 [LinkedIn](https://linkedin.com/in/sudhirshivaram) | 📧 shivaram.sudhir@gmail.com
 
----
+<br clear="left"/>
 
 ## 👨‍💼 About Me
 
@@ -22,24 +22,22 @@ Currently working as a **Senior Software Engineer at Computershare**, where I en
 → Reduced **monthly LLM costs to ~$12** through 4-tier automatic fallback architecture
 → Led **L3 production support** for critical data services with high SLA compliance
 
----
-
 ## 🛠️ Technical Skills
 
 ### AI/ML & Data Science
-**Programming:** Python, PyTorch, TensorFlow, scikit-learn, LangChain, LlamaIndex
-**ML Techniques:** RAG, NLP, Supervised/Unsupervised Learning, LLMs, Prompt Engineering, LoRA Fine-tuning
-**Vector Databases:** FAISS, Pinecone, Weaviate, ChromaDB, OpenSearch
-**Data Engineering:** Pandas, NumPy, SQL, ETL (Airflow, dbt, AWS Glue), Feature Engineering
-**Deployment & MLOps:** Docker, FastAPI, Streamlit, MLflow, HuggingFace Spaces
+- **Programming:** Python, PyTorch, TensorFlow, scikit-learn, LangChain, LlamaIndex
+- **ML Techniques:** RAG, NLP, Supervised/Unsupervised Learning, LLMs, Prompt Engineering, LoRA Fine-tuning
+- **Vector Databases:** FAISS, Pinecone, Weaviate, ChromaDB, OpenSearch
+- **Data Engineering:** Pandas, NumPy, SQL, ETL (Airflow, dbt, AWS Glue), Feature Engineering
+- **Deployment & MLOps:** Docker, FastAPI, Streamlit, MLflow, HuggingFace Spaces
 
 ### Software Engineering
-**Languages:** Java (JDK 17), Python
-**Backend:** Spring Boot, REST APIs, FastAPI, Flask, Jersey
-**Frontend:** React JS, Angular
-**Databases:** Oracle, MySQL, PostgreSQL, Snowflake, BigQuery, Redshift
-**DevOps:** Jenkins, GitHub Actions, Azure DevOps, Docker, OpenShift, Kubernetes
-**Cloud Platforms:** AWS (Glue, S3, Lambda), Azure, GCP
+- **Languages:** Java (JDK 17), Python
+- **Backend:** Spring Boot, REST APIs, FastAPI, Flask, Jersey
+- **Frontend:** React JS, Angular
+- **Databases:** Oracle, MySQL, PostgreSQL, Snowflake, BigQuery, Redshift
+- **DevOps:** Jenkins, GitHub Actions, Azure DevOps, Docker, OpenShift, Kubernetes
+- **Cloud Platforms:** AWS (Glue, S3, Lambda), Azure, GCP
 
 ---
 
