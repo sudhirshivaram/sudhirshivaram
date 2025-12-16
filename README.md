@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%;">
-</div>
+<img align="left" src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%; margin-right: 20px;">
 
 # Hi there, I'm Sudhir Shivaram 👋
 
