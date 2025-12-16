@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%;">
+</div>
+
 # Hi there, I'm Sudhir Shivaram 👋
 
 ## ML/AI Engineer | Full-Stack Java Engineer | Cloud & MLOps Practitioner
