@@ -28,20 +28,29 @@ Currently seeking ML Engineering roles where I can build AI systems that scale f
 
 ## 🛠️ Technical Skills
 
-### AI/ML & Data Science
-- **Programming:** Python, PyTorch, TensorFlow, scikit-learn, LangChain, LlamaIndex
-- **ML Techniques:** RAG, NLP, Supervised/Unsupervised Learning, LLMs, Prompt Engineering, LoRA Fine-tuning
-- **Vector Databases:** FAISS, Pinecone, Weaviate, ChromaDB, OpenSearch
-- **Data Engineering:** Pandas, NumPy, SQL, ETL (Airflow, dbt, AWS Glue), Feature Engineering
-- **Deployment & MLOps:** Docker, FastAPI, Streamlit, MLflow, HuggingFace Spaces
+**Languages**
+Python • Java (JDK 17)
 
-### Software Engineering
-- **Languages:** Java (JDK 17), Python
-- **Backend:** Spring Boot, REST APIs, FastAPI, Flask, Jersey
-- **Frontend:** React JS, Angular
-- **Databases:** Oracle, MySQL, PostgreSQL, Snowflake, BigQuery, Redshift
-- **DevOps:** Jenkins, GitHub Actions, Azure DevOps, Docker, OpenShift, Kubernetes
-- **Cloud Platforms:** AWS (Glue, S3, Lambda), Azure, GCP
+**AI/ML & LLMs**
+PyTorch • TensorFlow • scikit-learn • LangChain • LlamaIndex • RAG • NLP • Prompt Engineering • LoRA Fine-tuning
+
+**Vector Databases & Search**
+FAISS • Pinecone • Weaviate • ChromaDB • OpenSearch
+
+**Backend & APIs**
+Spring Boot • FastAPI • Flask • Jersey • REST APIs
+
+**Frontend**
+React JS • Angular
+
+**Databases & Data Engineering**
+PostgreSQL • MySQL • Oracle • Snowflake • BigQuery • Redshift • Pandas • NumPy • SQL • ETL (Airflow, dbt, AWS Glue)
+
+**Cloud & DevOps**
+AWS (S3, Lambda, Glue) • Azure • GCP • Docker • Kubernetes • OpenShift • Jenkins • GitHub Actions • Azure DevOps
+
+**MLOps & Deployment**
+MLflow • Streamlit • Gradio • HuggingFace Spaces
 
 ---
 
