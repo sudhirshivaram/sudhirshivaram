@@ -1,8 +1,8 @@
-<img align="left" src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%; margin-right: 20px;">
-
 # Hi there, I'm Sudhir Shivaram 👋
 
-## ML/AI Engineer | Full-Stack Java Engineer | Cloud & MLOps Practitioner
+<img align="left" src="github-profile-pic.jpeg" alt="Sudhir Shivaram" width="200" style="border-radius: 50%; margin-right: 20px;">
+
+### ML/AI Engineer | Full-Stack Java Engineer | Cloud & MLOps Practitioner
 
 📍 Based in the US | 🔗 [LinkedIn](https://linkedin.com/in/sudhirshivaram) | 📧 shivaram.sudhir@gmail.com
 
