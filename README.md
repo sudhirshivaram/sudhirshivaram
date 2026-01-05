@@ -120,6 +120,42 @@ Interactive ML dashboard achieving **96% R² (0.964)** with LinearRegression + S
 
 ---
 
+### 4️⃣ PolicyForge — AI-Powered IAM Policy Generator
+
+**🔗 [Live Demo](https://huggingface.co/spaces/sudhirshivaram/policy-forge) | [GitHub](https://github.com/sudhirshivaram/policy-forge)**
+
+![PolicyForge](https://raw.githubusercontent.com/sudhirshivaram/policy-forge/main/screenshots/policy-forger.png)
+
+Transform natural language security requirements into production-ready cloud IAM policies for **AWS, Azure, and GCP**.
+
+**Tech Stack:** Python, Gradio, OpenAI GPT-4, Google Gemini, Ollama, Clean Architecture
+
+**Key Features:**
+- 🤖 Natural language to IAM policy generation in seconds
+- ☁️ Multi-cloud support (AWS, Azure, GCP)
+- 🔒 Built-in security validation and least-privilege enforcement
+- 🎨 Clean Architecture with Factory and Strategy patterns
+- 🔄 Multi-provider LLM support (OpenAI/Gemini/Ollama)
+
+---
+
+### 5️⃣ SecureQuery — RAG-Powered Security Log Analyzer
+
+**🔗 [GitHub](https://github.com/sudhirshivaram/SecureQuery)**
+
+AI-powered security log analysis using **Retrieval-Augmented Generation** for CloudTrail and security logs.
+
+**Tech Stack:** Python, ChromaDB, OpenAI Embeddings, Sentence Transformers, Gradio, Google Gemini, Clean Architecture
+
+**Key Features:**
+- 🔍 Natural language queries over security logs
+- 🗄️ Vector database powered by ChromaDB
+- 🧠 Multi-provider embeddings (OpenAI/Sentence Transformers)
+- ⚡ RAG pipeline for contextual log analysis
+- 📊 Support for AWS CloudTrail and generic JSON logs
+
+---
+
 ## 🎓 Academic Projects
 
 **🔗 [View Full Academic Portfolio](https://github.com/sudhirshivaram/academic-projects)**
