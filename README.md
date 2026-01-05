@@ -141,7 +141,9 @@ Transform natural language security requirements into production-ready cloud IAM
 
 ### 5️⃣ SecureQuery — RAG-Powered Security Log Analyzer
 
-**🔗 [GitHub](https://github.com/sudhirshivaram/SecureQuery)**
+**🔗 [Live Demo](https://huggingface.co/spaces/sudhirshivaram/secure-query) | [GitHub](https://github.com/sudhirshivaram/SecureQuery)**
+
+![SecureQuery](https://raw.githubusercontent.com/sudhirshivaram/SecureQuery/main/screenshots/secure-query.png)
 
 AI-powered security log analysis using **Retrieval-Augmented Generation** for CloudTrail and security logs.
 
